@@ -17,6 +17,12 @@ The database stores information about vegetables, fruits, and herbs, including p
 * SQL
 * GitHub
 
+## Entity Relationship Diagram
+
+The following diagram illustrates the relationships between the tables in the Garden Database System.
+
+![ERD](screenshots/ERD.png)
+
 ## Database Tables
 
 ### Plants
