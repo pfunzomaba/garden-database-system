@@ -1,4 +1,4 @@
-# Garden Database System
+# Pfunzo's Garden Database System
 
 ## Project Title
 
